@@ -1,0 +1,22 @@
+{
+  "name": "monkeytrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lephubui/MonkeyTrip.git"
+  },
+  "author": "Le Bui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lephubui/MonkeyTrip/issues"
+  },
+  "homepage": "https://github.com/lephubui/MonkeyTrip#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
